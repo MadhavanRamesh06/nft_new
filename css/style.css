@@ -152,13 +152,13 @@ sup {
 }
 
 a {
-  color: #FF6600;
+  color: #fff;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #b34700;
+  color: #b1dfbb;
   text-decoration: underline;
 }
 
@@ -589,6 +589,10 @@ pre code {
   word-break: normal;
 }
 
+.logo{
+  height: auto;
+  width: 200px;
+}
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll;
